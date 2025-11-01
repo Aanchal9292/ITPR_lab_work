@@ -1,8 +1,6 @@
-// package project1;
-
 import java.util.Scanner;
 
-public class palindrome {
+public class Palindrome {
 
     public static void main(String[] args) {
 
@@ -34,3 +32,4 @@ public class palindrome {
         }
     }
 }
+
