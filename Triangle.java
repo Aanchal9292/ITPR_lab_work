@@ -1,4 +1,4 @@
-// package project1;
+package project1;
 
 import java.util.Scanner;
 public class Triangle {
@@ -31,4 +31,5 @@ public class Triangle {
 	}
 
 }
+
 
