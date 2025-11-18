@@ -1,4 +1,4 @@
-// package trainingOfJava.project1;
+package trainingOfJava.project1;
 
 import java.util.Scanner;
 
@@ -44,3 +44,4 @@ public class TrianglesBasedOnAngles {
 		}
 	}
 }
+
