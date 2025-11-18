@@ -1,4 +1,4 @@
-// package project1;
+package project1;
 import java.util.Scanner; //importing Scanner class for user input
 /*----- Defining a class for Addition ----*/
 class SumCalculator
@@ -58,3 +58,4 @@ public class ArrayExample {
 	}
 
 }
+
